@@ -83,9 +83,18 @@ Ensure you have the dataset in `dataset_ppe/train`, `dataset_ppe/val`, and `data
 - If OpenCV cascades fail, ensure OpenCV is properly installed.
 - For training, make sure TensorFlow and the dataset are correctly set up.
 
-## License
+## dataset you can download from kaggle or my data link is below
+https://drive.google.com/drive/folders/1nKZQM5lJS6RAccfiHKeNCXm853JojlQK?usp=drive_link
 
-[Add your license here, e.g., MIT]
+## captured images
+https://drive.google.com/drive/folders/1Hv9H1L_H-5z3hv1KQMA-udli-FYhGHmt?usp=drive_link
+
+
+## capture examples
+<img width="628" height="472" alt="image" src="https://github.com/user-attachments/assets/deceb7a8-7893-4960-a1ac-5b6529c3e10a" />
+<img width="607" height="466" alt="image" src="https://github.com/user-attachments/assets/1d79ceae-9b47-4030-abf2-dd00b0dc42c8" />
+<img width="633" height="472" alt="image" src="https://github.com/user-attachments/assets/82324369-c7c4-49f1-acb6-299a2d15e083" />
+<img width="627" height="467" alt="image" src="https://github.com/user-attachments/assets/645bcb0c-86f5-4735-8eae-87df52c0a2ca" />
 
 ## Contributing
 
